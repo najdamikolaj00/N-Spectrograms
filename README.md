@@ -1,6 +1,7 @@
 
 <div align="center">
     <h2>Repository for research on the usability of CNNs in speech processing (health-focused).</h2> 
+    <h3>Scientific objective: Create CNN architecture for limited dataset.</h3> 
 </div>
 <div align="center">
     <img src="Images/N_Spectrograms.png" alt="NSpec" style="width: 500px; height: auto; vertical-align: middle; display: inline-block;" />
